@@ -1,6 +1,8 @@
 # CheckSameLayerName-for-Photoshop
 You can check same layer name exist.
 
+Referenced by http://yataya2000.com/article/isuniquelayer/ 
+
 # The reason I decided to make this is...
 When you import PSD file in PremierePro, they are recognized as the same thing by PremierePro when the same layer name exists.
 
